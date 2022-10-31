@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) 
 {
-	int a,b,c,d,e;
+	int a,b,c,d,e,sum;
 	
 	
 	system("pause");
