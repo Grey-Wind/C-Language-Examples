@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//#include "end.h"
+#include "end.h"
 
 
 int main(int argc, char *argv[]) 
