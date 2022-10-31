@@ -2,13 +2,15 @@
 #include <stdlib.h>
 #include <math.h>
 
-
-int main(int argc, char *argv[]) 
+int main() 
 {
-	printf("please enter the number(5 numbers)\n");
-	int a,b,c,d,e,sum;
+
+	int a,b,c;
+	c=a+b;
+	scanf("%d %d",&a,&b);
+	printf("key:%d",c);
 	
-	sum=a+b+c+d+e;
-	end();
+	
+	system("pause"); 
 	return 0;
 }
