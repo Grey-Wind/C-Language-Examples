@@ -5,12 +5,7 @@
 
 int main(int argc, char *argv[]) 
 {
-	int a;
-	int b;
-	int c;
-	int d;
-	int e;
-	int f;
+	int a,b,c,d,e;
 	
 	
 	system("pause");
