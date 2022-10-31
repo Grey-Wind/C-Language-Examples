@@ -9,6 +9,6 @@ int main(int argc, char *argv[])
 	int a,b,c,d,e,sum;
 	
 	sum=a+b+c+d+e;
-	system("pause");
+	end();
 	return 0;
 }
