@@ -1,6 +1,6 @@
 
-#ifndef END_H
-#define END_H
+#ifndef _END_H_
+#define _END_H_
 
 
 #endif
